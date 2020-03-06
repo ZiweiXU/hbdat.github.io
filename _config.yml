@@ -20,6 +20,7 @@ description: The Joy of Pursuing Knowledge
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "/"
   About Me: "aboutme"
   Publication: "publication"
 #  Resources:
