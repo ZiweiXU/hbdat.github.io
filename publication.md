@@ -31,7 +31,7 @@ title: Publication
 <li>
 	<p>
 		<b>D. Huynh</b> and E. Elhamifar<br>
-		<a href="">Seeing Many Unseen Labels via Shared Multi-Attention Models</a><br>
+		<a href="http://www.lsfsl.net/ws/ea/ICCV2019_MDALC_EA07.pdf">Seeing Many Unseen Labels via Shared Multi-Attention Models</a><br>
 		International Conference on Computer Vision Workshop (ICCVW), 2019<br>
 		Workshop on Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond.
 	</p>

@@ -5,6 +5,11 @@ date:   2020-01-18 17:40:38 -0500
 ---
 
 # **A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning**
+<u>Abstract:</u><br>
+_In this work, we develop a shared multi-attention model for multi-label zero-shot learning. We argue that designing attention mechanism for recognizing multiple seen and unseen labels in an image is a non-trivial task as there is no training signal to localize unseen labels and an image only contains a few present labels that need attentions out of thousands of possible labels. Therefore, instead of generating attentions for unseen labels which have unknown behaviors and could focus on irrelevant regions due to the lack of any training sample, we let the unseen labels select among a set of shared attentions which are trained to be label-agnostic and to focus on only relevant/foreground regions through our novel loss. Finally, we learn a compatibility function to distinguish labels based on the selected attention. We further propose a novel loss function that consists of three components guiding the attention to focus on diverse and relevant image regions while utilizing all attention features. By extensive experiments, we show that our method improves the state of the art by 3.3% and 1.4% F1 score on the NUS-WIDE and the large scale Open Images datasets, respectively._
+
+<div style="text-align:center"><img src="/img/attentionZSL.png" width="500"/></div>
+
 - [Main Paper](https://drive.google.com/file/d/1vgPO_n1TW8IwEcXLK5w-4MfEjc73gO3t/view?usp=sharing) 
 - [Supplementary Material](https://drive.google.com/file/d/1CIeMjWfi49IbB7fh1yy9e3GfB9mxxjMM/view?usp=sharing)
 
