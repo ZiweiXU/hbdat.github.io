@@ -29,6 +29,7 @@ title: Publication
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/InteractiveCMLL-CVPR20.pdf">Interactive Multi-Label CNN Learning with Partial Labels</a><br>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
+		<a href="https://github.com/hbdat/cvpr20_IMCL">[Project]</a><br>
 		<a href="http://www.ccs.neu.edu/home/eelhami/publications/InteractiveCMLL-CVPR20-suppmat.pdf">Supplementary Materials</a><br>
 	</p>
 </li>
