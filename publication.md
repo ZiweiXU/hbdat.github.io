@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Publication
+layout: default
+title: Dat Huynh
 ---
 
 <ol>
