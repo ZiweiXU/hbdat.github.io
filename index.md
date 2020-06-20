@@ -11,9 +11,9 @@ Hi, I am a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern 
  
 
 ## Research Interest
-My main focus is visual grounding of textual information to:
+My main focus is on visual grounding of textual information to:
 + Interpret and control machine predictions via novel attention mechanisms
-+ Leverage human knowledge from textual domain to reduce visual annotation
++ Leverage human knowledge from textual domain to reduce the amount of visual annotation
 
 ## News
 + All paper codes are released on [Github](https://github.com/hbdat).
