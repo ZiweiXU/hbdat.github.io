@@ -16,8 +16,8 @@ My main interest is on reducing the amount of annotation needed to train deep le
 I believe that making these systems interpretable could be the first step toward this goal.
 
 I am currently working on visual grounding of textual information to:
-+ Interpret and control machine predictions based on visual attention
-+ Leverage human knowledge in textual domain to recognize unseen concepts
++ Interpret and control machine predictions via novel attention mechanisms
++ Leverage human knowledge in textual domain for recognizing unseen concepts
 
 ## News
 + All paper codes are released on [Github](https://github.com/hbdat).

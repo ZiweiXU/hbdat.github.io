@@ -9,8 +9,9 @@ title: Dat Huynh
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20.pdf">A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning</a><br>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
-		<a href="https://github.com/hbdat/cvpr20_LESA">[Project]</a><br>
-		<a href="http://www.ccs.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20-suppmat.pdf">Supplementary Materials</a><br>
+		<b>Oral Presentation</b><br>
+		<a href="https://github.com/hbdat/cvpr20_LESA">[Project]</a>
+		<a href="http://www.ccs.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20-suppmat.pdf">[Supplementary Materials]</a><br>
 	</p>
 </li>
 
@@ -19,8 +20,8 @@ title: Dat Huynh
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/FineGrainedZSL-CVPR20.pdf">Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention</a><br>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
-		<a href="https://github.com/hbdat/cvpr20_DAZLE">[Project]</a><br>
-		<a href="http://www.ccs.neu.edu/home/eelhami/publications/FineGrainedZSL-CVPR20-suppmat.pdf">Supplementary Materials</a><br>
+		<a href="https://github.com/hbdat/cvpr20_DAZLE">[Project]</a>
+		<a href="http://www.ccs.neu.edu/home/eelhami/publications/FineGrainedZSL-CVPR20-suppmat.pdf">[Supplementary Materials]</a><br>
 	</p>
 </li>
 
@@ -29,8 +30,8 @@ title: Dat Huynh
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/InteractiveCMLL-CVPR20.pdf">Interactive Multi-Label CNN Learning with Partial Labels</a><br>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
-		<a href="https://github.com/hbdat/cvpr20_IMCL">[Project]</a><br>
-		<a href="http://www.ccs.neu.edu/home/eelhami/publications/InteractiveCMLL-CVPR20-suppmat.pdf">Supplementary Materials</a><br>
+		<a href="https://github.com/hbdat/cvpr20_IMCL">[Project]</a>
+		<a href="http://www.ccs.neu.edu/home/eelhami/publications/InteractiveCMLL-CVPR20-suppmat.pdf">[Supplementary Materials]</a><br>
 	</p>
 </li>
 
