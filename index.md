@@ -20,6 +20,5 @@ I am currently working on visual grounding of textual information to:
 + Leverage human knowledge in textual domain for recognizing unseen concepts
 
 ## News
-+ All paper codes are released on [Github](https://github.com/hbdat).
++ All CVPR20 paper codes are released on [Github](https://github.com/hbdat).
 + Attended [virtual CVPR20](http://cvpr2020.thecvf.com/). Kudos to the organizers for pulling this off.
-+ THREE papers, including an oral presentation, are accepted to CVPR 2020.
