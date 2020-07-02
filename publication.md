@@ -6,6 +6,14 @@ title: Dat Huynh
 <ol>
 <li>
 	<p>
+		Samad Jafar-Zanjani, Mohammad Mahdi Salary, <b>Dat Huynh</b>, Ehsan Elhamifar, and Hossein Mosallaei<br>
+		<a href="">Active Metasurfaces Design by Conditional Generative Adversarial Networks</a><br>
+		International Conference on Metamaterials, Photonic Crystals and Plasmonics (META), 2020.<br>
+	</p>
+</li>
+
+<li>
+	<p>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20.pdf">A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning</a><br>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
