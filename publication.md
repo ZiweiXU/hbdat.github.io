@@ -6,7 +6,7 @@ title: Dat Huynh
 <ol>
 <li>
 	<p>
-		Samad Jafar-Zanjani, Mohammad Mahdi Salary, <b>Dat Huynh</b>, Ehsan Elhamifar, and Hossein Mosallaei<br>
+		S. Jafar-Zanjani, M. M. Salary, <b>D. Huynh</b>, E. Elhamifar, and H. Mosallaei<br>
 		<a href="">Active Metasurfaces Design by Conditional Generative Adversarial Networks</a><br>
 		International Conference on Metamaterials, Photonic Crystals and Plasmonics (META), 2020.<br>
 	</p>
