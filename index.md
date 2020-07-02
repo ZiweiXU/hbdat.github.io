@@ -13,11 +13,11 @@ I received my B.S. from University of Sciences (Viet Nam) where I was fortunate 
 
 ## Research Interest
 My main interest is on reducing the amount of annotation needed to train deep learning systems.
-I believe that making these systems interpretable could be the first step toward this goal.
+I am mesmerized by how much a machine can learn with a few, one, or zero training sample(s).
 
-I am currently working on visual grounding of textual information to:
-+ Interpret and control machine predictions via novel attention mechanisms
-+ Leverage human knowledge in textual domain for recognizing unseen concepts
+I am currently working on:
++ Interpreting and controlling machine predictions via novel attention mechanisms
++ Leveraging human knowledge in textual domain to recognize unseen concepts
 
 ## News
 + All CVPR20 paper codes are released on [Github](https://github.com/hbdat).
