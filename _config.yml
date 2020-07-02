@@ -24,6 +24,8 @@ nav:
    link: "/index"
  - name: "Publication"
    link: "/publication"
+ - name: "Contact"
+   link: "/contact"
  - name: "Github"
    link: "https://github.com/hbdat"
 

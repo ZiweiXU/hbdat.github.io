@@ -22,6 +22,3 @@ I am currently working on:
 ## News
 + All CVPR20 paper codes are released on [Github](https://github.com/hbdat).
 + Attended [virtual CVPR20](http://cvpr2020.thecvf.com/). Kudos to the organizers for pulling this off.
-
-## Contact
-Email: huynh [dot] dat [at] northeastern [dot] edu
