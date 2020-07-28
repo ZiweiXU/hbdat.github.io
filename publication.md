@@ -8,7 +8,7 @@ title: Dat Huynh
 <li>
 	<p>
 		E. Elhamifar and <b>D. Huynh</b><br>
-		<a href="http://khoury.neu.edu/home/eelhami/publications/SelfSupProcLearn-ECCV2020.pdf">Self-Supervised Multi-Task Procedure Learning from Instructional Videos via DNNs</a><br>
+		<a href="http://khoury.neu.edu/home/eelhami/publications/SelfSupProcLearn-ECCV2020.pdf">Self-Supervised Multi-Task Procedure Learning from Instructional Videos</a><br>
 		European Conference on Computer Vision (ECCV), 2020.<br>
 	</p>
 </li>
