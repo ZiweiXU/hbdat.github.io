@@ -20,7 +20,7 @@ I am currently working on:
 + Leveraging human knowledge in textual domain to recognize unseen concepts
 
 ## News
-+ New paper on ```Self-Supervised Multi-Task Procedure Learning from Instructional Videos via DNNs``` is accepted to [ECCV 2020](https://eccv2020.eu/)
++ New paper on ```Self-Supervised Multi-Task Procedure Learning from Instructional Videos``` is accepted to [ECCV 2020](https://eccv2020.eu/)
 + My [email address](https://hbdat.github.io/contact) has changed.
-+ All CVPR20 paper codes are released on [Github](https://github.com/hbdat).
++ Codes from the CVPR20 papers are released on [Github](https://github.com/hbdat).
 + Attended [virtual CVPR20](http://cvpr2020.thecvf.com/). Kudos to the organizers for pulling this off.
