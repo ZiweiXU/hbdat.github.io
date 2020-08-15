@@ -5,7 +5,7 @@ title: Dat Huynh
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile_pic.jpg">
 
 Hi, I am a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern University, advised by [Prof. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/). 
 
