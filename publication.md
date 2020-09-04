@@ -26,9 +26,9 @@ title: Dat Huynh
 	<p>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20.pdf">A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning</a><br>
-		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
 		<a href="https://github.com/hbdat/cvpr20_LESA" style="color:blue;">[Project]</a>
 		<a href="http://www.ccs.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20-suppmat.pdf" style="color:green;">[Supplementary Materials]</a><br>
+		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
 		<b>Oral Presentation</b><br>
 	</p>
 </li>
