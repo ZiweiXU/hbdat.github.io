@@ -9,8 +9,8 @@ title: Dat Huynh
 	<p>
 		E. Elhamifar and <b>D. Huynh</b><br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/SelfSupProcLearn-ECCV2020.pdf">Self-Supervised Multi-Task Procedure Learning from Instructional Videos</a><br>
+		<a href="https://github.com/hbdat/eccv20_Multi_Task_Procedure_Learning" style="color:blue;">[Project]</a><br>
 		European Conference on Computer Vision (ECCV), 2020.<br>
-		<a href="https://github.com/hbdat/eccv20_Multi_Task_Procedure_Learning" style="color:blue;">[Project]</a>
 	</p>
 </li>
 
@@ -27,9 +27,9 @@ title: Dat Huynh
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20.pdf">A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning</a><br>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
-		<b>Oral Presentation</b><br>
 		<a href="https://github.com/hbdat/cvpr20_LESA" style="color:blue;">[Project]</a>
 		<a href="http://www.ccs.neu.edu/home/eelhami/publications/MultiAtt-MLZSL-CVPR20-suppmat.pdf" style="color:green;">[Supplementary Materials]</a><br>
+		<b>Oral Presentation</b><br>
 	</p>
 </li>
 
@@ -37,9 +37,9 @@ title: Dat Huynh
 	<p>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/FineGrainedZSL-CVPR20.pdf">Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention</a><br>
-		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
 		<a href="https://github.com/hbdat/cvpr20_DAZLE" style="color:blue;">[Project]</a>
 		<a href="http://www.ccs.neu.edu/home/eelhami/publications/FineGrainedZSL-CVPR20-suppmat.pdf" style="color:green;">[Supplementary Materials]</a><br>
+		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
 	</p>
 </li>
 
@@ -47,9 +47,9 @@ title: Dat Huynh
 	<p>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="http://khoury.neu.edu/home/eelhami/publications/InteractiveCMLL-CVPR20.pdf">Interactive Multi-Label CNN Learning with Partial Labels</a><br>
-		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
 		<a href="https://github.com/hbdat/cvpr20_IMCL" style="color:blue;">[Project]</a>
 		<a href="http://www.ccs.neu.edu/home/eelhami/publications/InteractiveCMLL-CVPR20-suppmat.pdf" style="color:green;">[Supplementary Materials]</a><br>
+		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br>
 	</p>
 </li>
 
