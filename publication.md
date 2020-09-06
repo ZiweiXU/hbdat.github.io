@@ -2,6 +2,24 @@
 layout: default
 title: Dat Huynh
 ---
+<style media = "all">
+	li::before {
+	  content: attr(conference);
+	  display: table-cell;
+	  text-align: right;
+	}
+
+	li {
+	  list-style-type: none;
+	}
+	ul {
+	  display: table;
+	  border-spacing: 20px 0;
+	}
+	li {
+	  display: table-row;
+	}
+</style>
 
 <ul>
 
