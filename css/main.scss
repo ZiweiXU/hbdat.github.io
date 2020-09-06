@@ -1,3 +1,8 @@
 ---
 ---
 @import "style";
+
+ul li::before {
+  content: attr(conference);
+  font-size: 1.25em;
+}
