@@ -2,7 +2,19 @@
 ---
 @import "style";
 
-ul li::before {
+li::before {
   content: attr(conference);
-  font-size: 1.25em;
+  display: table-cell;
+  text-align: right;
+}
+
+li {
+  list-style-type: none;
+}
+ul {
+  display: table;
+  border-spacing: 20px 0;
+}
+li {
+  display: table-row;
 }
