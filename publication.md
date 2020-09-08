@@ -14,7 +14,7 @@ custom_css: pub
 		European Conference on Computer Vision, 2020.<br>
 	</p>
 	
-	<p>
+	<p style="margin-top:-5mm;">
 	<br><u>Description:</u> Developed a weakly supervised key-frame localization method for multi-task procedure learning in videos
 	<br><br>
 	<u>Outcome:</u> Applied self-supervised learning on CrossTask and ProceL datasets to localize key-frames without human supervision
@@ -40,7 +40,7 @@ custom_css: pub
 		<b>Oral Presentation</b><br>
 	</p>
 	
-	<p>
+	<p style="margin-top:-5mm;">
 	<br><u>Description:</u> Developed a multi-label recognition system for labels without training samples via attention sharing
 	<br><br>
 	<u>Outcome:</u> Improved the state-of-the-art performance by 2% mAP score on NUS-WIDE and scaled to 7000 seen labels and 400 unseen labels in Open Images
@@ -56,7 +56,7 @@ custom_css: pub
 		IEEE Conference on Computer Vision and Pattern Recognition, 2020.<br>
 	</p>
 	
-	<p>
+	<p style="margin-top:-5mm;">
 	<br><u>Description:</u> Developed a dense attribute-based attention mechanism for fine-grained zero-shot learning 
 	<br><br>
 	<u>Outcome:</u> Improved state-of-the-art performances on CUB, AWA2 by at least 4% harmonic mean by weakly localizing fine-grained attributes of all classes 
@@ -72,7 +72,7 @@ custom_css: pub
 		IEEE Conference on Computer Vision and Pattern Recognition, 2020.<br>
 	</p>
 	
-	<p>
+	<p style="margin-top:-5mm;">
 	<br><u>Description:</u> Developed a scalable framework for multi-label CNN training with missing labels
 	<br><br>
 	<u>Outcome:</u> Improved 2% mAP score on Open Images compared to treating missing labels as absent labels
