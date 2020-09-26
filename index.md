@@ -20,6 +20,7 @@ I am currently working on:
 + Leveraging human knowledge in textual domain to recognize unseen concepts
 
 ## News
++ New paper on ```Compositional Learning``` is accepted to [neurIPS 2020](https://neurips.cc/Conferences/2020).
 + New paper on ```Self-Supervised Multi-Task Procedure Learning from Instructional Videos``` is accepted to [ECCV 2020](https://eccv2020.eu/). Code is available on [Github](https://github.com/hbdat/eccv20_Multi_Task_Procedure_Learning)
 + Codes from the CVPR20 papers are released on [Github](https://github.com/hbdat).
 + Attended [virtual CVPR20](http://cvpr2020.thecvf.com/). Kudos to the organizers for pulling this off.

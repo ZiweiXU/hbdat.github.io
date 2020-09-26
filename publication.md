@@ -6,6 +6,21 @@ custom_css: pub
 
 <ul>
 
+<li conference="neurIPS20">
+	<p>
+		<b>D. Huynh</b> and E. Elhamifar<br>
+		<a href="">Dense Feature Composition for Zero-Shot Learning</a><br>
+		(to appear in Neural Information Processing Systems, 2020).<br>
+	</p>
+	
+	<p style="margin-top:-5mm;">
+	<br><u>Description:</u> Developed a novel generative model that constructs features of novel classes by combining features from familiar classes
+	<br><br>
+	<u>Outcome:</u> Improved the state-of-the-art performance of unseen clothing recognition by 4% harmonic mean on DeepFashion dataset
+	</p>
+	
+</li>
+
 <li conference="ECCV20">
 	<p>
 		E. Elhamifar and <b>D. Huynh</b><br>
