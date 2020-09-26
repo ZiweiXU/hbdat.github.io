@@ -22,4 +22,4 @@ I am currently working on:
 ## News
 + New paper on ```Compositional Learning``` is accepted at [neurIPS 2020](https://neurips.cc/Conferences/2020).
 + New paper on ```Self-Supervised Multi-Task Procedure Learning from Instructional Videos``` is accepted at [ECCV 2020](https://eccv2020.eu/). Code is available on [Github](https://github.com/hbdat/eccv20_Multi_Task_Procedure_Learning)
-+ Three paper including an oral presentation is accepted at [CVPR20](http://cvpr2020.thecvf.com/). Their codes are released on [Github](https://github.com/hbdat).
++ Three paper including an oral presentation is accepted at [CVPR 2020](http://cvpr2020.thecvf.com/). Their codes are released on [Github](https://github.com/hbdat).
