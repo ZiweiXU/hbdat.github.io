@@ -13,7 +13,7 @@ I received my B.S. from University of Sciences (Viet Nam) where I was fortunate 
 
 ## Research Interest
 My main interest is on reducing the amount of annotation needed to train deep learning systems.
-I am mesmerized by how much a machine can learn with a few, one, or zero training sample(s).
+I am mesmerized by how much machines can learn with a few, one, or zero training sample(s).
 
 I am currently working on:
 + Interpreting and controlling machine predictions via novel attention mechanisms
