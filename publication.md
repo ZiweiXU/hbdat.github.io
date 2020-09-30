@@ -33,7 +33,7 @@ custom_css: pub
 <td>
 	<p>
 		E. Elhamifar and <b>D. Huynh</b><br>
-		<a href="pubs/eccv20_seflsup_supmat_final.pdf">Self-Supervised Multi-Task Procedure Learning from Instructional Videos</a><br>
+		<a href="pubs/eccv20_seflsup_final.pdf">Self-Supervised Multi-Task Procedure Learning from Instructional Videos</a><br>
 		<a href="https://gitdub.com/hbdat/eccv20_Multi_Task_Procedure_Learning" style="color:blue;">[Project]</a><br>
 		European Conference on Computer Vision, 2020.<br>
 	</p>
