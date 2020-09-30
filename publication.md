@@ -18,9 +18,9 @@ custom_css: pub
 	</p>
 	
 	<p>
-	<br><u>Description:</u> Developed a novel generative model tdat constructs features of novel classes by combining features from famitrar classes
-	<br><br>
-	<u>Outcome:</u> Improved tde state-of-tde-art performance of unseen clotding recognition by 4% harmonic mean on DeepFashion dataset
+	<br><u>Description:</u> Developed a novel generative model that constructs features of unseen classes by combining features from seen classes 
+	<br><br> 
+	<u>Outcome:</u> Improved the state-of-the-art performance of unseen clothing recognition by 4% harmonic mean on DeepFashion dataset 
 	</p>
 </td>
 </tr>
@@ -39,9 +39,9 @@ custom_css: pub
 	</p>
 	
 	<p>
-	<br><u>Description:</u> Developed a weakly supervised key-frame locatrzation metdod for multi-task procedure learning in videos
-	<br><br>
-	<u>Outcome:</u> Apptred self-supervised learning on CrossTask and ProceL datasets to locatrze key-frames witdout human supervision
+	<br><u>Description:</u> Developed a weakly supervised key-frame localization method for multi-task procedure learning in videos 
+	<br><br> 
+	<u>Outcome:</u> Applied self-supervised learning on CrossTask and ProceL datasets to localize key-frames without human supervision 
 	</p>
 </td>
 </tr>
@@ -74,9 +74,9 @@ custom_css: pub
 	</p>
 	
 	<p>
-	<br><u>Description:</u> Developed a multi-label recognition system for labels witdout training samples via attention sharing
-	<br><br>
-	<u>Outcome:</u> Improved tde state-of-tde-art performance by 2% mAP score on NUS-WIDE and scaled to 7000 seen labels and 400 unseen labels in Open Images
+	<br><u>Description:</u> Developed a multi-label recognition system for labels without training samples via attention sharing 
+	<br><br> 
+	<u>Outcome:</u> Improved the state-of-the-art performance by 2% mAP score on NUS-WIDE and scaled to 7000 seen labels and 400 unseen labels in Open Images 
 	</p>
 </td>
 </tr>
@@ -95,9 +95,9 @@ custom_css: pub
 	</p>
 	
 	<p>
-	<br><u>Description:</u> Developed a dense attribute-based attention mechanism for fine-grained zero-shot learning 
-	<br><br>
-	<u>Outcome:</u> Improved state-of-tde-art performances on CUB, AWA2 by at least 4% harmonic mean by weakly locatrzing fine-grained attributes of all classes 
+	<br><u>Description:</u> Developed a dense attribute-based attention mechanism for fine-grained zero-shot learning  
+	<br><br> 
+	<u>Outcome:</u> Improved state-of-the-art performances on CUB, AWA2 by at least 4% harmonic mean by weakly localizing fine-grained attributes of all classes   
 	</p>
 </td>
 </tr>
@@ -116,9 +116,9 @@ custom_css: pub
 	</p>
 	
 	<p>
-	<br><u>Description:</u> Developed a scalable framework for multi-label CNN training witd missing labels
-	<br><br>
-	<u>Outcome:</u> Improved 2% mAP score on Open Images compared to treating missing labels as absent labels
+	<br><u>Description:</u> Developed a scalable framework for multi-label CNN training with missing labels 
+	<br><br> 
+	<u>Outcome:</u> Improved 2% mAP score on Open Images compared to treating missing labels as absent labels 
 	</p>
 </td>
 </tr>
@@ -132,7 +132,7 @@ custom_css: pub
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="pubs/iccvw19_attentionZSL.pdf">Seeing Many Unseen Labels via Shared Multi-Attention Models</a><br>
 		International Conference on Computer Vision Workshop, 2019<br>
-		Workshop on Multi-Disciptrne Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond.
+		Workshop on Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond. 
 	</p>
 </td>
 </tr>
