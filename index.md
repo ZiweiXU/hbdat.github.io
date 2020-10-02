@@ -11,6 +11,12 @@ Hi, I am a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern 
 
 I received my B.S. from University of Sciences (Viet Nam) where I was fortunate to study in Advanced Program in Computer Science. 
 
+## Contact
+If you are interested in my research or just want to say hi, I can be reached via:
++ Email: huynh [dot] dat [at] northeastern [dot] edu
++ [Linkedin](https://www.linkedin.com/in/dat-huynh-7709b116a/)
++ [Twitter](https://twitter.com/DatHuynh13)
+
 ## Research Interest
 My main interest is on reducing the amount of annotation needed to train deep learning systems.
 I am mesmerized by how much machines can learn with a few, one, or zero training sample(s).
