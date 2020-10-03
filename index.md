@@ -11,7 +11,7 @@ Hi, I am a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern 
 
 I received my B.S. from University of Sciences (Viet Nam) where I was fortunate to study in Advanced Program in Computer Science. 
 
-I manage to condense my academic journey into this [one-page Résumé](/resume/resume_Dat.pdf). 
+My academic journey can be condensed into this [one-page Résumé](/resume/resume_Dat.pdf). 
 
 ## Contact
 If you are interested in my research or just want to say hi, I can be reached via:
