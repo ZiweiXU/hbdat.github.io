@@ -11,11 +11,11 @@ custom_css: pub
 <img src="figures/dense_feature_composition.png" class="center">
 </td>
 <td>
-	<p>
+	<center>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="">Dense Feature Composition for Zero-Shot Learning</a><br>
-		(to appear in Neural Information Processing Systems, 2020).<br>
-	</p>
+		(to appear in NeurIPS 2020)<br>
+	</center>
 	
 	<p>
 	<br><u>Description:</u> Developed a novel generative model that constructs features of unseen classes by combining features from seen classes 
@@ -31,12 +31,12 @@ custom_css: pub
 </td>
 
 <td>
-	<p>
+	<center>
 		E. Elhamifar and <b>D. Huynh</b><br>
 		<a href="pubs/eccv20_seflsup_final.pdf">Self-Supervised Multi-Task Procedure Learning from Instructional Videos</a><br>
 		<a href="https://gitdub.com/hbdat/eccv20_Multi_Task_Procedure_Learning" style="color:blue;">[Project]</a><br>
-		European Conference on Computer Vision, 2020.<br>
-	</p>
+		ECCV 2020<br>
+	</center>
 	
 	<p>
 	<br><u>Description:</u> Developed a weakly supervised key-frame localization method for multi-task procedure learning in videos 
@@ -51,11 +51,11 @@ custom_css: pub
 <img src="">
 </td>
 <td>
-	<p>
+	<center>
 		S. Jafar-Zanjani, M. M. Salary, <b>D. Huynh</b>, E. Elhamifar, and H. Mosallaei<br>
 		<a href="">Active Metasurfaces Design by Conditional Generative Adversarial Networks</a><br>
-		International Conference on Metamaterials, Photonic Crystals and Plasmonics, 2020.<br>
-	</p>
+		International Conference on Metamaterials, Photonic Crystals and Plasmonics, 2020<br>
+	</center>
 </td>
 </tr>
 
@@ -64,14 +64,14 @@ custom_css: pub
 <img src="figures/shared_attention.png" class="center">
 </td>
 <td>
-	<p>
+	<center>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="pubs/cvpr20_attentionZSL_final.pdf">A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning</a><br>
 		<a href="https://gitdub.com/hbdat/cvpr20_LESA" style="color:blue;">[Project]</a>
 		<a href="pubs/suppmat_attentionZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br>
-		IEEE Conference on Computer Vision and Pattern Recognition, 2020.<br>
+		CVPR 2020<br>
 		<b>Oral Presentation</b><br>
-	</p>
+	</center>
 	
 	<p>
 	<br><u>Description:</u> Developed a multi-label recognition system for labels without training samples via attention sharing 
@@ -86,13 +86,13 @@ custom_css: pub
 <img src="figures/fine_grained.png" class="center">
 </td>
 <td>
-	<p>
+	<center>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="pubs/cvpr20_finegrainedZSL_final.pdf">Fine-Grained Generatrzed Zero-Shot Learning via Dense Attribute-Based Attention</a><br>
 		<a href="https://gitdub.com/hbdat/cvpr20_DAZLE" style="color:blue;">[Project]</a>
 		<a href="pubs/suppmat_finegrainedZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br>
-		IEEE Conference on Computer Vision and Pattern Recognition, 2020.<br>
-	</p>
+		CVPR 2020<br>
+	</center>
 	
 	<p>
 	<br><u>Description:</u> Developed a dense attribute-based attention mechanism for fine-grained zero-shot learning  
@@ -107,13 +107,13 @@ custom_css: pub
 <img src="figures/interactive_learning.png" class="center">
 </td>
 <td>
-	<p>
+	<center>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="pubs/cvpr20_ssmll_final.pdf">Interactive Multi-Label CNN Learning witd Partial Labels</a><br>
 		<a href="https://gitdub.com/hbdat/cvpr20_IMCL" style="color:blue;">[Project]</a>
 		<a href="pubs/suppmat_ssmll_final.pdf" style="color:green;">[Supplementary Materials]</a><br>
-		IEEE Conference on Computer Vision and Pattern Recognition, 2020.<br>
-	</p>
+		CVPR 2020<br>
+	</center>
 	
 	<p>
 	<br><u>Description:</u> Developed a scalable framework for multi-label CNN training with missing labels 
@@ -128,12 +128,14 @@ custom_css: pub
 <img src="figures/shared_attention_workshop.png" class="center" >
 </td>
 <td>
-	<p>
+	<center>
 		<b>D. Huynh</b> and E. Elhamifar<br>
 		<a href="pubs/iccvw19_attentionZSL.pdf">Seeing Many Unseen Labels via Shared Multi-Attention Models</a><br>
-		International Conference on Computer Vision Workshop, 2019<br>
-		Workshop on Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond. 
-	</p>
+		ICCVW 2019
+		<br>
+		<br>
+		Workshop on Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond<br>
+	</center>
 </td>
 </tr>
 </table>
