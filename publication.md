@@ -109,7 +109,7 @@ custom_css: pub
 <td>
 	<center>
 		<b>D. Huynh</b> and E. Elhamifar<br>
-		<a href="pubs/cvpr20_ssmll_final.pdf">Interactive Multi-Label CNN Learning witd Partial Labels</a><br>
+		<a href="pubs/cvpr20_ssmll_final.pdf">Interactive Multi-Label CNN Learning with Partial Labels</a><br>
 		<a href="https://gitdub.com/hbdat/cvpr20_IMCL" style="color:blue;">[Project]</a>
 		<a href="pubs/suppmat_ssmll_final.pdf" style="color:green;">[Supplementary Materials]</a><br>
 		CVPR 2020<br>
