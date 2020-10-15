@@ -18,7 +18,7 @@ custom_css: pub
 	</center> 
 	 
 	<p> 
-	<br><u>Description:</u> Developed a novel generative model that constructs features of unseen classes by combining features from seen classes  
+	<br><u>Description:</u> Developed a novel generative model that constructs hundreds of fine-grained features for unseen classes   
 	<br><br>  
 	<u>Outcome:</u> Improved the state-of-the-art performance of unseen clothing recognition by 4% harmonic mean on DeepFashion dataset  
 	</p> 
@@ -134,7 +134,7 @@ custom_css: pub
 	</center> 
 	 
 	<p> 
-	<br><u>Description:</u> Developed a scalable framework for multi-label CNN training with missing labels  
+	<br><u>Description:</u> Developed a scalable graph-based framework to regularize multi-label CNN learning with missing labels  
 	<br><br>  
 	<u>Outcome:</u> Improved 2% mAP score on Open Images compared to treating missing labels as absent labels  
 	</p> 
