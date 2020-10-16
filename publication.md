@@ -67,6 +67,7 @@ custom_css: pub
 <center>
 <a href="https://gitdub.com/hbdat/cvpr20_LESA" style="color:blue;">[Project]</a> <br> 
 <a href="pubs/suppmat_attentionZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
+<a href="presentations/shared_attention_short.pdf" >[Slide]</a><br> 
 </center> 
 <br>
 <img src="figures/shared_attention.png" class="center">
@@ -95,7 +96,8 @@ custom_css: pub
 <td> 
 <center>
 <a href="https://gitdub.com/hbdat/cvpr20_DAZLE" style="color:blue;">[Project]</a> <br> 
-		<a href="pubs/suppmat_finegrainedZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
+<a href="pubs/suppmat_finegrainedZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
+<a href="presentations/dense_attention_short.pdf" >[Slide]</a><br> 
 </center> 
 <br>
 <img src="figures/fine_grained.png" class="center"> 
@@ -120,7 +122,8 @@ custom_css: pub
 <td> 
 <center>
 <a href="https://gitdub.com/hbdat/cvpr20_IMCL" style="color:blue;">[Project]</a> <br>
-		<a href="pubs/suppmat_ssmll_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
+<a href="pubs/suppmat_ssmll_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
+<a href="presentations/ssmll_short.pdf" >[Slide]</a><br> 
 </center> 
 <br>
 <img src="figures/interactive_learning.png" class="center"> 
