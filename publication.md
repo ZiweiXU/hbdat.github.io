@@ -103,7 +103,7 @@ custom_css: pub
 <td> 
 	<center> 
 		<b>D. Huynh</b> and E. Elhamifar<br> 
-		<a href="pubs/cvpr20_finegrainedZSL_final.pdf">Fine-Grained Generatrzed Zero-Shot Learning via Dense Attribute-Based Attention</a><br> 
+		<a href="pubs/cvpr20_finegrainedZSL_final.pdf">Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention</a><br> 
 		
 		CVPR 2020<br> 
 	</center> 
