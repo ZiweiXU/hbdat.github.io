@@ -8,17 +8,23 @@ custom_css: pub
  
 <tr> 
 <td> 
+<center>
+<a href="https://github.com/hbdat/neurIPS20_CompositionZSL" style="color:blue;">[Project]</a> <br> 
+<a href="pubs/suppmat_neurIPS20_compositionZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
+<a href="presentations/compositionalZSL_short.pdf" >[Slide]</a><br> 
+</center> 
+<br>
 <img src="figures/dense_feature_composition.png" class="center"> 
 </td> 
 <td> 
 	<center> 
 		<b>D. Huynh</b> and E. Elhamifar<br> 
-		<a href="">Dense Feature Composition for Zero-Shot Learning</a><br> 
-		(to appear in NeurIPS 2020)<br> 
+		<a href="pubs/neurips20_CompositionZSL_final.pdf">Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition</a><br> 
+		<br>NeurIPS 2020<br> 
 	</center> 
 	 
 	<p> 
-	<br><u>Description:</u> Developed a novel generative model that constructs hundreds of fine-grained features for unseen classes   
+	<br><u>Description:</u> Developed a generative model that constructs of fine-grained features for unseen classes by recombining features from training samples
 	<br><br>  
 	<u>Outcome:</u> Improved the state-of-the-art performance of unseen clothing recognition by 4% harmonic mean on DeepFashion dataset  
 	</p> 
@@ -38,7 +44,7 @@ custom_css: pub
 	<center> 
 		E. Elhamifar and <b>D. Huynh</b><br> 
 		<a href="pubs/eccv20_seflsup_final.pdf">Self-Supervised Multi-Task Procedure Learning from Instructional Videos</a><br> 
-		ECCV 2020<br> 
+		<br>ECCV 2020<br> 
 	</center> 
 	
 	<p> 
@@ -57,7 +63,7 @@ custom_css: pub
 	<center> 
 		S. Jafar-Zanjani, M. M. Salary, <b>D. Huynh</b>, E. Elhamifar, and H. Mosallaei<br> 
 		<a href="">Active Metasurfaces Design by Conditional Generative Adversarial Networks</a><br> 
-		International Conference on Metamaterials, Photonic Crystals and Plasmonics, 2020<br> 
+		<br>International Conference on Metamaterials, Photonic Crystals and Plasmonics, 2020<br> 
 	</center> 
 </td> 
 </tr> 
@@ -80,7 +86,7 @@ custom_css: pub
 		<b>D. Huynh</b> and E. Elhamifar<br> 
 		<a href="pubs/cvpr20_attentionZSL_final.pdf">A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning</a><br> 
 		
-		CVPR 2020<br> 
+		<br>CVPR 2020<br> 
 		<b>Oral Presentation</b><br> 
 	</center> 
 	 
@@ -107,7 +113,7 @@ custom_css: pub
 		<b>D. Huynh</b> and E. Elhamifar<br> 
 		<a href="pubs/cvpr20_finegrainedZSL_final.pdf">Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention</a><br> 
 		
-		CVPR 2020<br> 
+		<br>CVPR 2020<br> 
 	</center> 
 	 
 	<p> 
@@ -133,7 +139,7 @@ custom_css: pub
 		<b>D. Huynh</b> and E. Elhamifar<br> 
 		<a href="pubs/cvpr20_ssmll_final.pdf">Interactive Multi-Label CNN Learning with Partial Labels</a><br> 
 		
-		CVPR 2020<br> 
+		<br>CVPR 2020<br> 
 	</center> 
 	 
 	<p> 
@@ -152,7 +158,7 @@ custom_css: pub
 	<center> 
 		<b>D. Huynh</b> and E. Elhamifar<br> 
 		<a href="pubs/iccvw19_attentionZSL.pdf">Seeing Many Unseen Labels via Shared Multi-Attention Models</a><br> 
-		ICCVW 2019 
+		<br>ICCVW 2019 
 		<br> 
 		<br> 
 		Workshop on Multi-Discipline Approach for Learning Concepts - Zero-Shot, One-Shot, Few-Shot and Beyond<br> 
