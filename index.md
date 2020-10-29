@@ -35,6 +35,12 @@ I am currently working on:
 
 ## Publications
 
+<center>
+"We can only see a short distance ahead,<br>
+but we can see plenty there that needs to be done."
+<br>
+― Alan Turing, Computing machinery and intelligence, 1950
+</center>
 
 <table> 
  
