@@ -22,8 +22,6 @@ sass:
 nav:
  - name: "Home"
    link: "/index"
- - name: "Publication"
-   link: "/publication"
  - name: "Google Scholar"
    link: "https://scholar.google.com/citations?user=A02E__AAAAAJ&hl=en&oi=ao"
  - name: "Github"

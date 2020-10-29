@@ -1,20 +1,3 @@
-li::before {
-  content: attr(conference);
-  display: table-cell;
-  text-align: right;
-}
-
-li {
-  list-style-type: none;
-}
-ul {
-  display: table;
-  border-spacing: 20px 0;
-}
-li {
-  display: table-row;
-}
-
 table {
   border-collapse: separate;
   border-spacing: 0 20px;
