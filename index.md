@@ -56,7 +56,7 @@ I am currently working on:
 	</center> 
 	 
 	<p> 
-	<br><u>Description:</u> Developed a generative model that constructs of fine-grained features for unseen classes by recombining features from training samples
+	<br><u>Description:</u> Developed a generative model that constructs fine-grained features for unseen classes by recombining features from training samples
 	<br><br>  
 	<u>Outcome:</u> Improved the state-of-the-art performance of unseen clothing recognition by 4% harmonic mean on DeepFashion dataset  
 	</p> 
