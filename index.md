@@ -10,9 +10,7 @@ custom_css: pub
 
 Hi, I am a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern University, advised by [Prof. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/). 
 
-I received my B.S. from University of Sciences (Viet Nam) where I was fortunate to study in Advanced Program in Computer Science. 
-
-If that's too short, here is [my latest Résumé](/resume/resume_Dat.pdf). 
+I received my B.S. from University of Sciences (Viet Nam) where I was fortunate to study in Advanced Program in Computer Science.  
 
 ## Contact
 If you are interested in my research or just want to say hi, I can be reached via:
