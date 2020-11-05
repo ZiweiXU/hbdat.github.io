@@ -22,6 +22,11 @@ If you are interested in my research or collaboration, I can be reached via:
 My main interest is on reducing the amount of annotation needed to train deep learning systems.
 I am mesmerized by how much machines can learn with a few, one, or zero training sample(s).
 
+Research Areas:
++ Image/Video Recognition
++ Object Detection/Visual Grounding
++ Weakly-Supervised Learning
+
 I am currently working on:
 + Interpreting and controlling machine predictions via novel attention mechanisms
 + Leveraging human knowledge in textual domain to recognize unseen concepts
