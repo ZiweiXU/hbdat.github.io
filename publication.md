@@ -34,7 +34,7 @@ custom_css: pub
 <tr conference="ECCV20"> 
 <td> 
 <center>
-<a href="https://gitdub.com/hbdat/eccv20_Multi_Task_Procedure_Learning" style="color:blue;">[Project]</a>
+<a href="https://github.com/hbdat/eccv20_Multi_Task_Procedure_Learning" style="color:blue;">[Project]</a>
 </center>
 <br>
 <img src="figures/self_sup.png" class="center"> 
@@ -71,7 +71,7 @@ custom_css: pub
 <tr conference="CVPR20"> 
 <td> 
 <center>
-<a href="https://gitdub.com/hbdat/cvpr20_LESA" style="color:blue;">[Project]</a> <br> 
+<a href="https://github.com/hbdat/cvpr20_LESA" style="color:blue;">[Project]</a> <br> 
 <a href="pubs/suppmat_attentionZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
 <a href="presentations/shared_attention_short.pdf" >[Slide]</a><br> 
 </center> 
@@ -101,7 +101,7 @@ custom_css: pub
 <tr conference="CVPR20"> 
 <td> 
 <center>
-<a href="https://gitdub.com/hbdat/cvpr20_DAZLE" style="color:blue;">[Project]</a> <br> 
+<a href="https://github.com/hbdat/cvpr20_DAZLE" style="color:blue;">[Project]</a> <br> 
 <a href="pubs/suppmat_finegrainedZSL_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
 <a href="presentations/dense_attention_short.pdf" >[Slide]</a><br> 
 </center> 
@@ -127,7 +127,7 @@ custom_css: pub
 <tr conference="CVPR20"> 
 <td> 
 <center>
-<a href="https://gitdub.com/hbdat/cvpr20_IMCL" style="color:blue;">[Project]</a> <br>
+<a href="https://github.com/hbdat/cvpr20_IMCL" style="color:blue;">[Project]</a> <br>
 <a href="pubs/suppmat_ssmll_final.pdf" style="color:green;">[Supplementary Materials]</a><br> 
 <a href="presentations/ssmll_short.pdf" >[Slide]</a><br> 
 </center> 
