@@ -19,7 +19,7 @@ If you are interested in my research or collaboration, I can be reached via:
 + [Twitter](https://twitter.com/DatHuynh13)
 
 ## Research Interest
-My main interest is in reducing the amount of annotation needed to train deep learning systems for visual recognition tasks such as object detection and segmentation.
+My main interest lies in reducing the amount of annotation needed to train deep learning systems for visual recognition tasks such as object detection and segmentation.
 Specifically, I am mesmerized by how much machines can learn with a few or zero training sample(s), and with missing annotations in weakly-supervised setting.
 
 Research Areas:
