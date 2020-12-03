@@ -16,7 +16,6 @@ I received my B.S. from University of Sciences (Viet Nam) where I was fortunate 
 If you are interested in my research or collaboration, I can be reached via:
 + Email: huynh [dot] dat [at] northeastern [dot] edu
 + [Linkedin](https://www.linkedin.com/in/dat-huynh-7709b116a/)
-+ [Twitter](https://twitter.com/DatHuynh13)
 
 ## Research Interest
 My main interest lies in reducing the amount of annotation needed to train deep learning systems for visual recognition tasks such as object detection and segmentation.
