@@ -19,8 +19,8 @@ If you are interested in my research or collaboration, I can be reached via:
 + [Linkedin](https://www.linkedin.com/in/dat-huynh-7709b116a/)
 
 ## Research Interest
-My research interests lie in reducing the amount of annotation needed to train deep learning systems for visual recognition tasks such as object detection and segmentation.
-Specifically, I design methods that decompose complex concepts into primitive components, which can be combined to enable learning with few or zero training sample(s), with missing annotations, and with weak supervision.
+My research interests lie in significantly reducing the amount of annotations needed to train deep learning systems for visual recognition, detection and segmentation tasks.<br>
+Specifically, I design methods that decompose complex concepts into primitive components that can be combined to enable learning with few or zero training samples, with missing annotations and with weak supervision.
 
 Research Areas:
 + Image/Video Recognition
