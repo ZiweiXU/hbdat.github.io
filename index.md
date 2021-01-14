@@ -8,7 +8,7 @@ custom_css: pub
 
 <img class="profile-picture" src="profile_pic.jpg">
 
-Happy New Year/ Chúc Mừng Năm Mới,<br>
+Hi,<br>
 I am a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern University, advised by [Prof. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/). 
 
 I received my B.S. from University of Sciences (Viet Nam) where I was fortunate to study in Advanced Program in Computer Science.  
