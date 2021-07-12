@@ -211,5 +211,5 @@ but we can see plenty there that needs to be done."
 
 ## Services
 I am always proud of serving the research community as:
-+ Internal Reviewer: WACV20, ICPR20, IJCAI21
++ Internal Reviewer: WACV20, ICPR20, IJCAI21, ICCV21, NeurIPS21
 + External Reviewer: CVPR, ECCV, ICCV, NeurIPS, ICML, AISTATS
