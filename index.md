@@ -32,7 +32,7 @@ I am currently working on:
 + Leveraging human knowledge in textual domain to recognize unseen concepts
 
 ## News
-+ I am honored to receive ```J.P. Morgan PhD Fellowship 2021 Award```.
++ I am honored to receive [```J.P. Morgan PhD Fellowship 2021 Award```](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship).
 + New paper on ```Compositional Learning``` is accepted at [neurIPS 2020](https://neurips.cc/Conferences/2020). Code is available on [Github](https://github.com/hbdat/neurIPS20_CompositionZSL).
 + New paper on ```Self-Supervised Multi-Task Procedure Learning from Instructional Videos``` is accepted at [ECCV 2020](https://eccv2020.eu/). Code is available on [Github](https://github.com/hbdat/eccv20_Multi_Task_Procedure_Learning).
 + Three papers including an oral presentation are accepted at [CVPR 2020](http://cvpr2020.thecvf.com/). Their codes are released on [Github](https://github.com/hbdat).
